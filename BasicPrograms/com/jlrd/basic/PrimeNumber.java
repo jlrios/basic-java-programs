@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Class:
  * Author: José L. Ríos
- * Creation date:
+ * Creation date: 29/02/24
  * Short description:
  * Updates:
  */

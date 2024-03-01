@@ -18,13 +18,13 @@ public class PrimeNumber {
         System.out.print("Enter number: ");
         prime = number.nextInt();
 
-        for (int n = 1; n <= prime; n ++) {
+        for (int n = 1; n <= prime; n++) {
             if (prime % n == 0) isPrime++;
         }
 
         if (isPrime == 2)
-            System.out.println("The number " + prime + " is a prime number.");
+            System.out.println("The number " + prime + " is a prime number");
         else
-            System.out.println("The number " + prime + " is not a prime number.");
+            System.out.println("The number " + prime + " is not a prime number");
     }
 }

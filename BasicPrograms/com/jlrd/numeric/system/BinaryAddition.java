@@ -1,4 +1,4 @@
-package com.jlrd.basic;
+package com.jlrd.numeric.system;
 
 import java.util.Scanner;
 

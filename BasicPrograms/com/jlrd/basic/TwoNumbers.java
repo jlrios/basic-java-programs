@@ -14,7 +14,7 @@ public class TwoNumbers {
         Scanner numbers = new Scanner(System.in);
         int number1, number2;
 
-        System.out.println("Basic arithmetic operations");
+        System.out.println("Basic arithmetic operations.");
         System.out.print("Enter first number: ");
         number1 = numbers.nextInt();
         System.out.print("Enter second number: ");
